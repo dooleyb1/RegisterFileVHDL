@@ -10,6 +10,8 @@ Also contains **testbenches** for each respective component.
 * Multiplexer(8to1)
 * Multiplexer(2to1)
 
+
+
 **Circuit Schematic (_Adjusted to 8 x 16bit Registers_)**: 
 <br/>![alt text][circuit]
 
